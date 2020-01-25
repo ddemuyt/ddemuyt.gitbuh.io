@@ -1,0 +1,53 @@
+p {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4, h2, h3, tr, a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: darkturquoise;
+    text-decoration: underline darkturquoise;
+}
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: wavy;
+    color: darkturquoise;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    font-weight: bold;
+}
+img, iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-color: darkturquoise; 
+}
+body{
+    color: white;
+    background-image:url(https://images.squarespace-cdn.com/content/v1/59b6deb8d55b4168dbfa0ccb/1508851779738-8DFGH0LF40XL084XM8WV/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USOFn4xF8vTWDNAUBm5ducQhX-V3oVjSmr829Rco4W2Uo49ZdOtO_QXox0_W7i2zEA/GRIZ_01.jpg?format=2500wuizktvsb8vmy.jpg) ;
+    background-position: center;
+    background-repeat: space;
+    background-color: black;
+}
+h4, h2, h3, tr {
+    color: deeppink;
+}
+tr{
+    background-color: rgba(128, 128, 128, 0.555);   
+}
+iframe{
+    margin: auto;
+    border: 10px outset darkturquoise
+}
